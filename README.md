@@ -63,6 +63,16 @@ Me chamo Guilherme Noboru Onishi Hirohara, realizei a minha carreira estudantil 
 
 <img 
     align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+          
+
+<img 
+    align="left" 
     alt="Python"
     title="Python" 
     width="30px" 
